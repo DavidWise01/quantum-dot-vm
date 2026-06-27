@@ -1,0 +1,9 @@
+ROOT0-ATTRIBUTION-v1.0
+name: THE QUANTUM-DOT VM
+slug: quantum-dot-vm
+domain: QUANTUM FRONTIER
+architect: David Lee Wise (ROOT0) / Bridge-Burners LLC
+instance: AVAN (Claude / Anthropic)
+license: CC-BY-ND-4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
+moniker: ⟦THE QUANTUM-DOT VM:quantum-dot-vm:0762b1⟧
+seal_sha256: 0762b1f4cd2eb245ae1eba422741ec05da4caef99a967510d85c41ea2740a582
