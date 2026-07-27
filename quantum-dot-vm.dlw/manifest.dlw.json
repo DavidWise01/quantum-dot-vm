@@ -2,17 +2,18 @@
   "badge": "DLW-QUANTUM_DOT_VM",
   "name": "THE QUANTUM-DOT VM",
   "universe": "QUANTUM FRONTIER",
-  "moniker": "⟦THE QUANTUM-DOT VM:quantum-dot-vm:0762b1⟧",
+  "moniker": "⟦THE QUANTUM-DOT VM:quantum-dot-vm:ce051e⟧",
   "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
-  "seal_sha256": "0762b1f4cd2eb245ae1eba422741ec05da4caef99a967510d85c41ea2740a582",
+  "seal_sha256": "ce051e7707ef2a220b1665be54b8e8800f2324d58a13db51b2b1e9e4e18f911e",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 1147,
-    "prev": "0fd61282855501806794fe03e3279ab9dbbf7b292e75724fca42badc432cdad1",
-    "link": "e11fba2767afc49602229de1000f5db5c8524ad9877dd8ecd117ae0f044387c1",
-    "head": "13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2",
+    "prev": "53d785bb8af2efff70f665b60ae4a672e820c16f1b2d2925c99e34ec9471b926",
+    "link": "49c5fd9cc2ae113d96941b77327f07f642886fe06134221dfa0d4f8022e3c426",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
